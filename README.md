@@ -1,6 +1,8 @@
 # Falcxxr
 * An Organization Developed and Owned by <a href="https://github.com/gifaldyazkaa">@gifaldyazkaa</a>
 
+<hr>
+
 **Gifaldy Azka's GitHub stats :**
 ![Gifaldy Azka's GitHub stats](https://github-readme-stats.vercel.app/api?username=gifaldyazkaa&show_icons=true&theme=radical)
 
